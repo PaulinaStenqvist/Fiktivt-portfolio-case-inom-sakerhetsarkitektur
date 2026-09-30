@@ -1,0 +1,1 @@
+# Fiktivt-portfolio-case-inom-s-kerhetsarkitektur
