@@ -45,7 +45,8 @@ Resultat
 
 Caset resulterar i en målarkitektur, riskregister, fem Architecture Decision Records, resiliens- och återställningsstrategi, testplan samt en principiell 12-månaders implementationsplan.
 
-Case study
+https://github.com/PaulinaStenqvist/Fiktivt-portfolio-case-inom-sakerhetsarkitektur/blob/main/SveaCare-Security-Architecture-Case.pdf
 
+Case study
 Detta är ett fiktivt portfolio-case. Antaganden och exempelvärden är tydligt separerade från sådant som skulle behöva verifieras i en verklig miljö.
 
