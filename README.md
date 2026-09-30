@@ -49,4 +49,3 @@ Case study
 
 Detta är ett fiktivt portfolio-case. Antaganden och exempelvärden är tydligt separerade från sådant som skulle behöva verifieras i en verklig miljö.
 
-Detta är ett fiktivt portfolio-case. Antaganden och exempelvärden är tydligt separerade från sådant som skulle behöva verifieras i en verklig miljö.
